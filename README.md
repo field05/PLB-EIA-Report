@@ -6,7 +6,7 @@ The Jabatan Alam Sekitar Facebook's announcement URL: https://www.facebook.com/s
 
 Repository: https://github.com/field05/PLB-EIA-Report
 
-Note: The geophysical-survey appendix (Appendix B-010 SI Electrical Resistivity Report.pdf) exceeds GitHub’s free-account file-size limit; please contact Jabatan Alam Sekitar directly to obtain that specific file.
+Note: Appendix B-010 SI Electrical Resistivity Report.pdf exceeds GitHub’s free-account file-size limit; please contact Jabatan Alam Sekitar directly to obtain that specific file.
 
 
 
