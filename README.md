@@ -1,5 +1,6 @@
-EIA report for 
-Proposed Landfill Rehabilitation
+EIA report for Jelutong Landfill Rehabilitation and Reclamation (from landfill till Amway, in front of Karpal Singh Drive)
+
+Project Title: Proposed Landfill Rehabilitation
 And Land Reclamation Works For
 Mixed Development At Seksyen 8,
 Bandar Jelutong, Daerah Timur
