@@ -10,4 +10,4 @@ Jabatan Alam Sekitar posted the EIA report on its official Facebook page on 12 F
 
 The copy of the EIA report was downloaded from the link provided by the Jabatan Alam Sekitar on 29 April 2025, and uploaded here. 
 
-Note: The file Appendix B-010 SI Electrical Resistivity Report.pdf is too big to be uploaded to a free GIT account. 
+Note: The file Appendix B-010 SI Electrical Resistivity Report.pdf is too big to be uploaded to a free GITHUB account. 
